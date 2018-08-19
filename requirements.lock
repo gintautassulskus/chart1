@@ -1,0 +1,6 @@
+dependencies:
+- name: chart2
+  repository: file://./chart_deps/chart2
+  version: "0.1"
+digest: sha256:b828df3668f44962edd2a0d04febc7f53f7c638f6a3a655a3be66b7c6e980df2
+generated: 2018-08-19T16:53:34.802160205+01:00

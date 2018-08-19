@@ -1,0 +1,4 @@
+dependencies:
+  - name: chart2
+    version: 0.1
+    repository: file://./chart_deps/chart2

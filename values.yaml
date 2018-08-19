@@ -1,0 +1,3 @@
+cahrt2:
+  postgresql:
+    enabled: false
